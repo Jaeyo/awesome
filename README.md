@@ -6,7 +6,8 @@
 - [trix][1]
   - rich text editor
 - [CSSgram][4]
-  - 
+  - CSS library for instagram filters
+  - [demo][5]
 
 ## React
 - [react-desktop][2]
@@ -18,3 +19,4 @@
 [2]: https://github.com/gabrielbull/react-desktop
 [3]: http://gabrielbull.github.io/react-desktop/demo/
 [4]: https://github.com/una/CSSgram
+[5]: http://una.im/CSSgram/
